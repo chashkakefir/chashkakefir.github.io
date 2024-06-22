@@ -92,7 +92,7 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://github.com/chashkakefir/chashkakefir.github.io/blob/main/assets/ava.jpeg?raw=true"
+avatar: /assets/ava.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
