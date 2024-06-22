@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello, World!"
+category: "programming"
 ---
 
 # Добро пожаловать, дорогие читатели, если вас хоть сколько-нибудь собралось
